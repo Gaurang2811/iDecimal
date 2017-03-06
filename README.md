@@ -31,7 +31,7 @@ Content-Type: application/json
 
 #### Product 1(b) - FIGPlus-Reverse
 
-###### NOTE : ###### URL, ###### Method Type and ###### Header will be the same as for FIgPlus
+###### NOTE :  URL, Method Type and ###### Header will be the same as for FIgPlus
 
 ###### Request Payload Description :
 
@@ -95,7 +95,7 @@ Content-Type: application/json
 
 #### Product 3(b) - FlexiCash-Reverse
 
-###### NOTE : ###### URL, ###### Method Type and ###### Header will be the same as for FlexiCash
+###### NOTE : URL, Method Type and ###### Header will be the same as for FlexiCash
 
 ###### Request Payload Description :
 
