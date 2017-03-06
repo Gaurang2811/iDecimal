@@ -2,7 +2,6 @@
 #
 ## Rest API Details for iDecimal
 
-13 th  December 2016
 
 #### Product 1(a) - FIGPlus
 
